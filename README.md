@@ -19,3 +19,4 @@ user_hometown       VARCHAR(255),
 PRIMARY KEY (user_id)
 );
 ```
+Адаптирован оригинал из github (ссылку потерял)
